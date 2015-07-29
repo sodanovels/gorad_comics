@@ -1,1 +1,1 @@
-# goroad_comics
+# gorad_comics
